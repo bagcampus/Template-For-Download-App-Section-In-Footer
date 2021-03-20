@@ -39,14 +39,7 @@
   margin: 15px;
   font-size: 20px;
 }
-.footer-outer .social-icons-footer a:hover i {
-  opacity: .6;
-  -webkit-transition: all .2s ease;
-  -moz-transition: all .2s ease;
-  -o-transition: all .2s ease;
-  -ms-transition: all .2s ease;
-  transition: all .2s ease;
-}
+
 .footer-outer .footer-three-grid {
   width: 1140px;
   margin: 0 auto;
